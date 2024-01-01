@@ -1,0 +1,32 @@
+name: Build & Deploy
+
+permissions:
+  contents: write
+
+on:
+  push:
+    branches: ["main"]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Use Node.js
+        uses: actions/setup-node@v3
+        with:
+          cache: "npm"
+
+      - name: Install packages
+        run: npm ci
+
+      - name: Run npm build
+        run: npm run build
+
+      - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
