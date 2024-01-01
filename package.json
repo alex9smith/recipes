@@ -2,6 +2,10 @@
   "name": "recipes",
   "version": "1.0.0",
   "description": "Static site for recipes",
+  "scripts": {
+    "build": "npx @11ty/eleventy",
+    "serve": "npx @11ty/eleventy --serve"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alex9smith/recipes.git"
@@ -11,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/alex9smith/recipes/issues"
   },
-  "homepage": "https://github.com/alex9smith/recipes#readme"
+  "homepage": "https://github.com/alex9smith/recipes#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^2.0.1"
+  }
 }
