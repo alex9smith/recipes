@@ -7,9 +7,21 @@ title: My Recipes
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ title }}</title>
-    <link rel="stylesheet" href="/css/all.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com/">
+    <link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:wght@300;400;500;600;700;800&subset=latin-ext&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:wght@300;400;500;600;700;800&subset=latin-ext&display=swap" media="print" onload="this.media='all'">
+    <noscript>
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Serif:wght@300;400;500;600;700;800&subset=latin-ext&display=swap">
+    </noscript>
+    <link rel="preload" href="/css/all.css" as="style">
+    <link rel="stylesheet" href="/css/all.css" media="all">
   </head>
   <body>
+    <div class="header">
+      <a class="nav-link" href="/">Home</a>
+      <a class="nav-link right" href="https://github.com/alex9smith/recipes">Github</a>
+    </div>
     <main>
     {{ content | safe }}
     </main>
