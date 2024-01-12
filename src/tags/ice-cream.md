@@ -18,6 +18,8 @@ Coconut milk is a popular option for a base but it's got a lot of flavour that c
 
 Instead you can use a combination of vegan butter (unsalted), cream and milk to get the correct volume and fat ratio.
 
+## Recipes
+
 <ul>
 {%- for recipe in collections.ice_cream -%}
   <li><a href="{{ recipe.url }}">{{ recipe.data.title }}</a></li>
