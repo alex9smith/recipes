@@ -1,6 +1,6 @@
 ---
 layout: layouts/tag.njk
-title: Ice cream recipes
+title: Ice cream
 date: 2024-01-12
 ---
 

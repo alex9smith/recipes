@@ -1,6 +1,6 @@
 ---
 layout: layouts/tag.njk
-title: Sorbet recipes
+title: Sorbet
 date: 2024-01-13
 ---
 

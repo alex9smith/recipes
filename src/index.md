@@ -6,7 +6,15 @@ eleventyImport:
 
 # Alex's recipes
 
-All recipes:
+## Collections
+
+<ul>
+{%- for page in collections.tags -%}
+  <li><a href="{{ page.url }}">{{ page.data.title }}</a></li>
+{%- endfor -%}
+</ul>
+
+## All recipes
 
 <ul>
 {%- for recipe in collections.recipe -%}
