@@ -34,5 +34,5 @@ date: 2024-03-15
 
 ## Notes
 
-These freeze very well in a frezzer bag and last for months.
+These freeze very well in a freezer bag and last for months.
 Reheat in the toaster or (briefly) in the microwave on low power.
