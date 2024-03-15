@@ -29,7 +29,8 @@ date: 2024-03-15
 - Dip a 3cm cutter in flour and stamp out as many scones as you can
 - Reroll the scraps and stamp out the rest
 - Place the scones on a lined baking sheet, beat the egg and brush the tops
-- Bake for 10 minutes or until risen and golden
+- Bake for 10 minutes
+- Turn the oven down to 200 C and bake for another 10 minutes, until golden brown
 - Move the scones to a wire rack and allow to cool for 10 minutes before eating
 
 ## Notes
