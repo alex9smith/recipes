@@ -23,8 +23,8 @@ date: 2024-07-29
 
 ## Method
 
-- Blend the pineapple and lime juice until completely smooth. You may need to add a splash of water or pineapple juice but try to add as little as possible.
-- Pour the pineapple juice into a large container with a lid, add all the other ingredients and mix well until all the sugar has dissolved.
-- Put the mixture in the fridge and let chill overnight.
-- Churn in an ice cream machine.
-- Return the ice cream to the container with a lid and put it in the freezer to set for at least 6 hours.
+1. Blend the pineapple and lime juice until completely smooth. You may need to add a splash of water or pineapple juice but try to add as little as possible.
+2. Pour the pineapple juice into a large container with a lid, add all the other ingredients and mix well until all the sugar has dissolved.
+3. Put the mixture in the fridge and let chill overnight.
+4. Churn in an ice cream machine.
+5. Return the ice cream to the container with a lid and put it in the freezer to set for at least 6 hours.

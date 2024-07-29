@@ -19,14 +19,14 @@ Ingredients for this recipe are given as ratios so it works for any quantity of 
 
 ## Method
 
-- Mix the salts, sugar and spices well in a small bowl
-- Cover pork belly all over in the salt mixture, making sure to use it all
-- Put pork belly in a baking tray, cover with cling film and put in fridge
-- Leave for 7-10 days, turning every 2 days
-- Uncover and leave for another 2 days in the fridge to dry out
-- Smoke on bbq, as low and slow as possible (at least 90 minutes) turning every 15 minutes
-- Wrap in cling film and foil and put back in fridge overnight to set
-- Put in the freezer for 45 minutes before slicing
+1. Mix the salts, sugar and spices well in a small bowl
+2. Cover pork belly all over in the salt mixture, making sure to use it all
+3. Put pork belly in a baking tray, cover with cling film and put in fridge
+4. Leave for 7-10 days, turning every 2 days
+5. Uncover and leave for another 2 days in the fridge to dry out
+6. Smoke on bbq, as low and slow as possible (at least 90 minutes) turning every 15 minutes
+7. Wrap in cling film and foil and put back in fridge overnight to set
+8. Put in the freezer for 45 minutes before slicing
 
 ## Notes
 
