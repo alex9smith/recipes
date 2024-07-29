@@ -18,17 +18,17 @@ date: 2024-02-16
 
 ## Method
 
-1. Peel and finely slice the garlic and ginger
-2. Deseed the chillies and cut into roughly 1cm squares
-3. Heat 2 tsp of neutral oil in a stainless steel saucepan over medium low heat
-4. Fry the chillies and ginger with a pinch of salt until starting to soften and the oil is turning red, about 2 minutes
-5. Add the ginger and continue to fry until the ginger and garlic are starting to brown, 1-2 more minutes
-6. Add the tin of mango puree and stir through
-7. Bring the sauce up to a simmer and stir regularly for 10 minutes until the aromatics are soft enough to blend
-8. Turn off the heat and allow to cool for 10 minutes
-9. Blend the sauce well with a stick blender
-10. Stir in the lime juice and vinegar
-11. Allow to cool to room temperature before bottling
+1. Peel and finely slice the garlic and ginger.
+2. Deseed the chillies and cut into roughly 1cm squares.
+3. Heat 2 tsp of neutral oil in a stainless steel saucepan over medium low heat.
+4. Fry the chillies and ginger with a pinch of salt until starting to soften and the oil is turning red, about 2 minutes.
+5. Add the ginger and continue to fry until the ginger and garlic are starting to brown, 1-2 more minutes.
+6. Add the tin of mango puree and stir through.
+7. Bring the sauce up to a simmer and stir regularly for 10 minutes until the aromatics are soft enough to blend.
+8. Turn off the heat and allow to cool for 10 minutes.
+9. Blend the sauce well with a stick blender.
+10. Stir in the lime juice and vinegar.
+11. Allow to cool to room temperature before bottling.
 
 ## Notes
 
