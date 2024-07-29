@@ -1,6 +1,6 @@
 ---
 layout: layouts/recipe.njk
-title: Dairy free ice cream
+title: Dairy free blackberry ice cream
 tags: ["recipe", "ice_cream", "multi_day"]
 date: 2024-01-12
 ---
@@ -18,7 +18,7 @@ date: 2024-01-12
 
 ## Equipment
 
-Ice cream machine
+- Ice cream machine
 
 ## Method
 
