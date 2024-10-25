@@ -21,17 +21,17 @@ date: 2024-03-15
 
 ## Method
 
-- Preheat your oven to 220 C
-- Put all the dry ingredients, butter and Trex in a food processor and pulse until the fat is incorporated
-- Add all the milk and pulse a few more times to mix
-- Tip the dough out onto a floured surface and knead lightly until it comes together
-- Roll out to about 3cm thickness
-- Dip a 3cm cutter in flour and stamp out as many scones as you can
-- Reroll the scraps and stamp out the rest
-- Place the scones on a lined baking sheet, beat the egg and brush the tops
-- Bake for 10 minutes
-- Turn the oven down to 200 C and bake for another 10 minutes, until golden brown
-- Move the scones to a wire rack and allow to cool for 10 minutes before eating
+1. Preheat your oven to 220 C.
+2. Put all the dry ingredients, butter and Trex in a food processor and pulse until the fat is incorporated.
+3. Add all the milk and pulse a few more times to mix.
+4. Tip the dough out onto a floured surface and knead lightly until it comes together.
+5. Roll out to about 3cm thickness.
+6. Dip a 3cm cutter in flour and stamp out as many scones as you can.
+7. Reroll the scraps and stamp out the rest.
+8. Place the scones on a lined baking sheet, beat the egg and brush the tops.
+9. Bake for 10 minutes.
+10. Turn the oven down to 200 C and bake for another 10 minutes, until golden brown.
+11. Move the scones to a wire rack and allow to cool for 10 minutes before eating.
 
 ## Notes
 

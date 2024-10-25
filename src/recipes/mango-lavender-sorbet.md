@@ -15,11 +15,11 @@ date: 2024-06-11
 
 ## Method
 
-- Blend the mango into a puree with a stick blender
-- Add the sugar and salt and mix well until dissolved
-- Pour into a container with a lid and let the mixture chill in the fridge overnight
-- Churn in an ice cream machine
-- Return the sorbet to the container with a lid and put it in the freezer to set for at least 6 hours
+1. Blend the mango into a puree with a stick blender.
+2. Add the sugar and salt and mix well until dissolved.
+3. Pour into a container with a lid and let the mixture chill in the fridge overnight.
+4. Churn in an ice cream machine.
+5. Return the sorbet to the container with a lid and put it in the freezer to set for at least 6 hours.
 
 ## Notes
 
