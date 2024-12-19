@@ -5,9 +5,11 @@ tags: ["recipe"]
 date: 2024-12-19
 ---
 
-# Chicken Liver Parfait
+# Chicken Liver Parfait with Spiced Port Jelly
 
 ## Ingredients
+
+### For the parfait
 
 - 200g shallots, finely sliced
 - 2 cloves of garlic, finely sliced
@@ -22,6 +24,14 @@ date: 2024-12-19
 - 3 eggs
 - 7g salt
 - 2g pink curing salt
+
+### For the port jelly
+
+- 50ml cold water
+- 6g gelatin powder
+- 250ml ruby port
+- 1 star anise
+- 1 cinnamon stick
 
 ## Equipment
 
@@ -42,7 +52,12 @@ Fine sieve
 - Pour the parfait mix through a fine sieve into the terrine mould.
 - Cover the top of the terrine mould tightly with foil and place into the bain-marie.
 - Cook until the internal temperature reaches 64C, approx 30 minutes
-- Remove from the bain-marie and let cool to room temperature before covering with clingfilm and storing in the fridge.
+- Remove from the bain-marie and let cool to room temperature.
+- While the parfait is cooling, make the jelly. Put the gelatin and cold water in a small bowl and leave for 10 minutes to bloom.
+- Meanwhile put the port and spices in a small saucepan and gently warm. We want this warm enough to infuse the spices and dissolve the gelatin but not boiling as that will ruin the gelatin.
+- Mix the gelatin powder and water into the warm port and stir well to combine.
+- Remove the whole spices and gently pour the jelly onto the parfait to form a 1mm layer.
+- Allow to fully cool to room temperature then tightly wrap in clingfilm and refrigerate.
 
 ## Notes
 
